@@ -1,0 +1,54 @@
+# Como a Internet chega na minha casa?
+>conteúdos extraidos do curso do Guanabara no youtube, mais informações ao final da página.
+
+
+## Conteúdos aprendidos
+
+### História da Internet
+
+
+ㅤDurante o período da Guerra Fria (disputa entre União Soviética e Estados Unidos da América) as potências se encontravam em meio a evoluções tecnológicas, como por exemplo a União Soviética com o lançamento do primeiro Satélite Artificial registrado _'Sputnik’_ e a organização fundada pelos EUA, a _Agência de Estudo de Tecnologias para Guerra_ ‘DARPA’, e tempos depois, viria a _ARPANET_.
+
+ ㅤEm meados de 1969, foi criada a ‘ARPANET’ uma rede cujo objetivo principal era o de identificar e estabelecer comunicação entre quatro computadores distintos espalhados por quatro cantos do país. Garantindo em caso de necessidade, como por exemplo durante um possível ataque, que o envio de dados importantes fosse feito para outro centro com outra máquina, evitando  a perda desses dados. 
+ ㅤㅤPorém, devido a grande difusão entre as máquinas, era necessária uma linguagem comum entre elas, para que pudessem se comunicar. E foi aí, através dessa dificuldade, que nasceu o protocolo ‘NCP’ que  possuía uma única linguagem. 
+Contudo, conforme os anos se passavam e as redes iam crescendo, o protocolo NCP foi se tornando obsoleto, trazendo assim a necessidade de criação de outros protocolos que fossem mais eficientes para o contexto, assim criado por Vint Cerf o protocolo ‘TCP’ (Transmission Control Protocol)e logo após, por Bob Kahn, o protocolo IP (Internet protocol) que viria a se juntar ao primeiro protocolo, se tornando assim o conjunto de protocolos TCP/IP.
+
+ㅤEsse conjunto de protocolos permitia interconexão entre diversas redes, inclusive entre continentes distintos, através de cabos submarinos, sistemas de satélite e outras tecnologias de transmissão. 
+Entretanto, após toda a evolução da rede, era necessário que a dividissem em partes para seu uso, separando assim uma militar, uma acadêmica e uma para o comércio.
+Com o tempo, esse conjunto de diversas redes deu origem ao termo "internetworking", que posteriormente foi simplificado para "Internet".
+
+ㅤ
+
+### Funcionamento na prática
+
+ㅤA forma como a Internet funciona hoje envolve comunicação entre clientes, que são os computadores dos usuários, e os computadores que hospedam informações, mais conhecidos como servidores. Quando um usuário solicita um dado, como uma imagem, um vídeo, texto etc, essa informação é fragmentada em pacotes menores pelo protocolo TCP. Esses mesmos pacotes viajam por rotas diferentes e, ao chegarem ao destino são reagrupados pelo TCP do computador do usuário (aquele que demandou o dado) para reconstruir a informação original como era antes de ser fragmentada e enviada. Esse processo de divisão em pacotes, garante a eficiência e a resiliência da transmissão de dados. 
+
+**exemplo:**
+![imagem representando o processo de envio e fragmentação de dados feito pelo protocolo T|CP/IP](<demanda um dado (1).jpg>)
+
+ㅤNo início, a Internet era composta por textos e links, sem a presença de imagens prontas para visualizar como hoje possuímos, eram criptografadas para um download do usuário, podendo apenas ser vista após baixada e na área de trabalho. Só era possível navegar através de comandos e protocolos, como por exemplo o protocolo gopher, muito utilizado na época.
+
+
+
+ㅤEntão, em 1993 o desenvolvedor Tim Berners-Lee criou o protocolo HTTP (Hypertext Transfer Protocol) e a linguagem HTML (Hypertext Markup Language) o conceito de hipertexto, que permitiu a criação de páginas interconectadas, e a WWW(World Wide Web)uma sub-rede da Internet (que é uma rede extensa e extremamente grande) especializada em servir conteúdo através do protocolo HTTP. 
+
+ㅤPorém ela necessitava de um navegador para ser usada, então surgiu o primeiro navegador da história ‘Mosaic’ criado por outro desenvolvedor chamado Marc Andreessen. Então, o surgimento de todos esses componentes anteriores foram de suma importância para a existência da internet como conhecemos hoje.
+
+**internet antigamente(protocolo gopher)**
+![Imagem que ilustra a internet antigamente, protocolo gopher](image.png)
+
+
+
+>indicação de vídeo deixada pelo Guanabara(guia do curso):
+https://youtu.be/TNQsmPf24go
+
+
+
+## Informações do curso
+
+- Link: https://youtu.be/F74GKCLXUWM?si=ijQWGbUAwHF0Ss8N
+
+- Duração: 27:00 minutos
+- Data de visualização: 04/08/2026
+
+
