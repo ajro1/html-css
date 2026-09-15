@@ -1,8 +1,10 @@
 # Como Funciona a Internet?
+
 >Conteúdos extraídos do curso do Guanabara no youtube, mais informações ao final da página.
 
 
 ## Representação de Dados em um Computador
+
 ㅤO computador é um dispositivo leigo(normalmente chamado de burro entre programadores), que necessita de comandos muito específicos para funcionar, comandos esses feitos pelos desenvolvedores.
 
 ㅤUma máquina utiliza de sinais elétricos para se comunicar, esses sinais elétricos são chamados de linguagem binária, pois utilizam bits sendo 1 (com sinal) e 0 (sem sinal).
@@ -22,6 +24,7 @@ existe diferença entre mb (minúsculo) e o MB (maiúsculo). O maiúsculo é par
 >bytes: armazenamento
 
 ### Como nos conectamos?
+
 ㅤA máquina de um usuário acessando a web, é declarado como cliente, pois ele está acessando recursos da internet, recurso esse disponibilizado por um servidor(sistema que armazena recursos que acessamos online, como sites, imagens e vídeos).
 
 ㅤPara obter acesso à internet, os usuários utilizam dispositivos que interligam eles ao recurso desejado. Porém, os dispositivos e a rede de transmissão possuem comunicações distintas, e por isso é necessário o uso do dispositivo _modem_ pois ele converte esses sinais digitais em analógicos e vice-versa(ondas quadradadas em ondas senoidas) que vão e vem entre seus dispositivos.
@@ -35,6 +38,7 @@ existe diferença entre mb (minúsculo) e o MB (maiúsculo). O maiúsculo é par
 Pois, quando um usuário pesquisa em um site online, o dispositivo consulta um servidor DNS, que é responsável por procurar aquele nome de domínio solicitado pelo usuário, e retorna o endereço IP referente ao domínio específico.
 
 ### Roteamento de Internet
+
 ㅤPor conta da vasta gama de percursos dentro da rede internet,algumas vezes quando tentamos acessar ou enviar informações online os ragmentos dos nossos pacotes podem acabar em rotas distintas, e por isso dificulta o acesso, ou causa um atraso nele. O roteamento serve para anular este problema, pois ele é responsável por procurar os melhores caminhos pelos quais nossos dados vão percorrer de forma que cheguem inteiros e sem erros ao destino final.
 
 ## Informações sobre o Curso
