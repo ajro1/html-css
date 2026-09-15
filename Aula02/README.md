@@ -43,7 +43,7 @@ Pois, quando um usuário pesquisa em um site online, o dispositivo consulta um s
 
 ## Informações sobre o Curso
 
-- Link: https://youtu.be/nlO5hySqJFA?si=CaruYrZdbBHNCN44
+- **Link do vídeo:** https://youtu.be/nlO5hySqJFA?si=CaruYrZdbBHNCN44
 
-- Duração: 22:14 minutos
-- Data de visualização: 06/08/2026
+- **Duração: 22:14 minutos**
+- **Data de visualização: 06/08/2026**

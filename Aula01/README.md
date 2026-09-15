@@ -1,4 +1,5 @@
 # Como a Internet chega na minha casa?
+
 >conteúdos extraidos do curso do Guanabara no youtube, mais informações ao final da página.
 
 ㅤ
@@ -37,16 +38,14 @@ Com o tempo, esse conjunto de diversas redes deu origem ao termo "internetworkin
 **internet antigamente(protocolo gopher)**
 ![Imagem que ilustra a internet antigamente, protocolo gopher](image.png)
 
-ㅤ
-ㅤEm
->indicação de vídeo deixada pelo Guanabara(guia do curso):
-https://youtu.be/TNQsmPf24go
+
+>indicação de vídeo deixada pelo Guanabara(guia do curso):https://youtu.be/TNQsmPf24go
 
 ㅤ
 ㅤ
 ## Informações do curso
 
-- Link: https://youtu.be/F74GKCLXUWM?si=ijQWGbUAwHF0Ss8N
+- **Link do vídeo:** https://youtu.be/F74GKCLXUWM?si=ijQWGbUAwHF0Ss8N
 
-- Duração: 27:00 minutos
-- Data de visualização: 04/08/2026
+- **Duração: 27:00 minutos**
+- **Data de visualização: 04/08/2026**
