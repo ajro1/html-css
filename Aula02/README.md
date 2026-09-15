@@ -23,7 +23,7 @@ existe diferença entre mb (minúsculo) e o MB (maiúsculo). O maiúsculo é par
 
 >bytes: armazenamento
 
-### Como nos conectamos?
+## Como nos conectamos?
 
 ㅤA máquina de um usuário acessando a web, é declarado como cliente, pois ele está acessando recursos da internet, recurso esse disponibilizado por um servidor(sistema que armazena recursos que acessamos online, como sites, imagens e vídeos).
 
@@ -32,7 +32,7 @@ existe diferença entre mb (minúsculo) e o MB (maiúsculo). O maiúsculo é par
 ㅤPara cada dispositivo em atividade online, existe um número mutável chamado de IP(Internet Protocol) responsável por guardar um endereço de roteamento.
 
 
-**Sistema de Nomes de Domínio(DNS)**
+### Sistema de Nomes de Domínio(DNS)
 
 ㅤO DNS é uma espécie de agenda telefônica da internet, responsável por traduzir os nomes de domínio como instagram.com para endereços IP núméricos associados a este domínio.
 Pois, quando um usuário pesquisa em um site online, o dispositivo consulta um servidor DNS, que é responsável por procurar aquele nome de domínio solicitado pelo usuário, e retorna o endereço IP referente ao domínio específico.
@@ -45,5 +45,5 @@ Pois, quando um usuário pesquisa em um site online, o dispositivo consulta um s
 
 - **Link do vídeo:** https://youtu.be/nlO5hySqJFA?si=CaruYrZdbBHNCN44
 
-- **Duração: 22:14 minutos**
-- **Data de visualização: 06/08/2026**
+- **Duração:** 22:14 minutos
+- **Data de visualização:** 06/08/2026
