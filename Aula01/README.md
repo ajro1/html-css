@@ -2,10 +2,8 @@
 
 >conteúdos extraidos do curso do Guanabara no youtube, mais informações ao final da página.
 
-ㅤ
-## Conteúdos aprendidos
 
-### História da Internet
+## História da Internet
 
 ㅤ
 ㅤDurante o período da Guerra Fria (disputa entre União Soviética e Estados Unidos da América) as potências se encontravam em meio a evoluções tecnológicas, como por exemplo a União Soviética com o lançamento do primeiro Satélite Artificial registrado _'Sputnik’_ e a organização fundada pelos EUA, a _Agência de Estudo de Tecnologias para Guerra_ ‘DARPA’, e tempos depois, viria a _ARPANET_.
@@ -47,5 +45,5 @@ Com o tempo, esse conjunto de diversas redes deu origem ao termo "internetworkin
 
 - **Link do vídeo:** https://youtu.be/F74GKCLXUWM?si=ijQWGbUAwHF0Ss8N
 
-- **Duração: 27:00 minutos**
-- **Data de visualização: 04/08/2026**
+- **Duração:** 27:00 minutos
+- **Data de visualização:** 04/08/2026
