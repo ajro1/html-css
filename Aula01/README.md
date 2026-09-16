@@ -28,8 +28,7 @@ Com o tempo, esse conjunto de diversas redes deu origem ao termo "internetworkin
 ㅤNo início, a Internet era composta por textos e links, sem a presença de imagens prontas para visualizar como hoje possuímos, eram criptografadas para um download do usuário, podendo apenas ser vista após baixada e na área de trabalho. Só era possível navegar através de comandos e protocolos, como por exemplo o protocolo gopher, muito utilizado na época.
 
 ㅤ
-ㅤ
-ㅤEntão, em 1993 o desenvolvedor Tim Berners-Lee criou o protocolo HTTP (Hypertext Transfer Protocol) e a linguagem HTML (Hypertext Markup Language) o conceito de hipertexto, que permitiu a criação de páginas interconectadas, e a WWW(World Wide Web)uma sub-rede da Internet (que é uma rede extensa e extremamente grande) especializada em servir conteúdo através do protocolo HTTP.
+Então, em 1993 o desenvolvedor Tim Berners-Lee criou o protocolo HTTP (Hypertext Transfer Protocol) e a linguagem HTML (Hypertext Markup Language) o conceito de hipertexto, que permitiu a criação de páginas interconectadas, e a WWW(World Wide Web)uma sub-rede da Internet (que é uma rede extensa e extremamente grande) especializada em servir conteúdo através do protocolo HTTP.
 
 ㅤPorém ela necessitava de um navegador para ser usada, então surgiu o primeiro navegador da história ‘Mosaic’ criado por outro desenvolvedor chamado Marc Andreessen. Então, o surgimento de todos esses componentes anteriores foram de suma importância para a existência da internet como conhecemos hoje.
 
